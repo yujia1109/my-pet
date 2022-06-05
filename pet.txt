@@ -5,6 +5,10 @@ a
 dog
 she's
 10
+she's
+colour 
+is
+yellow
 her
 name
 is
