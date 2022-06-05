@@ -3,6 +3,8 @@ pet
 is
 a
 dog
+she's
+10
 her
 name
 is
